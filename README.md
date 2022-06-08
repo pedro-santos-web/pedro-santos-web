@@ -2,11 +2,6 @@
 <h4 align="center">Full Stack Web Developer</h4>
 <h3 align="center"> ¯\_(ツ)_/¯</h3>
 
-**Me in three words:** 
-<br>-Quiet :shushing_face:
-<br>-Reader :scroll:
-<br>-Thinker :thinking:
-
 **Learning:**<br>
 Tailwind | OSM & IPinfo API
 
@@ -20,7 +15,10 @@ VS Code | Brave | WinSCP | Postman | MySQL Workbench | Adobe Illustrator, Photos
 
 <br>
 
-![](https://github.com/pedro-santos-web/pedro-santos-web/blob/main/mage.gif)
+<p align="center">
+  <img src="mage.gif" alt="Mage" />
+</p>
+<!-- ![](https://github.com/pedro-santos-web/pedro-santos-web/blob/main/) -->
 
 <br>
 
