@@ -8,9 +8,6 @@ Tailwind | OSM & IPinfo API
 **Tech:**<br>
 HTML | CSS | Bootstrap | Javascript | jQuery | PHP | Laravel | mySQL
 
-**Software:**<br>
-VS Code | Brave | WinSCP | Postman | MySQL Workbench | Adobe Illustrator, Photoshop, Lightroom | Figma | Visual SEO Studio
-
 📫 Contact me: **pedrohmsantos@sapo.pt**
 
 <br>
