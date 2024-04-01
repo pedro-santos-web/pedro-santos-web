@@ -1,15 +1,15 @@
-<h1 align="center">Sup, I'm Pedro!  ¯\_(ツ)_/¯</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h1 align="left">Sup, I'm Pedro!  ¯\_(ツ)_/¯</h1>
+<h3 align="left">Full Stack Web Developer</h3>
 
 <br>
 
-<p align="center">
+<p align="left">
   <img src="mage.gif" alt="Mage" />
 </p>
 
 <br>
 
-<p align="center">
+<p align="left">
   <b>Tool Belt:</b> PHP, Laravel, Javascript, JQuery, React JS, HTML5, CSS3, Tailwind CSS, Bootstrap. But there's space for more!
 </p>
 
