@@ -1,5 +1,5 @@
 <h1 align="left">Sup, I'm Pedro!  ¯\_(ツ)_/¯</h1>
-<h3 align="left">Full Stack Web Developer</h3>
+<h3 align="left">Full Stack Wizard</h3>
 
 <p align="left">
   <img src="mage.gif" alt="Mage" />
