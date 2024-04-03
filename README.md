@@ -7,9 +7,7 @@
 
 <br>
 
-<p align="left">
-  <b>Tool Belt:</b> PHP, Laravel, Javascript, JQuery, React JS, HTML5, CSS3, Tailwind CSS, Bootstrap. But there's space for more!
-</p>
+🔨 Tool belt: PHP, Laravel, Javascript, JQuery, React JS, HTML5, CSS3, Tailwind CSS, Bootstrap. With space for more!
 
 <br>
 
