@@ -11,7 +11,7 @@
 
 <br>
 
-📫 Contact me: **pedrohmsantos@sapo.pt**
+📫 Contact me: **pedro.santos@reativa.pt**
 
 <br>
 
