@@ -7,11 +7,11 @@
 
 <br>
 
-🔨 Tool belt: PHP, Laravel, Javascript, JQuery, React JS, HTML5, CSS3, Tailwind CSS, Bootstrap. With space for more!
+🔨 Tool belt: PHP, Laravel, Javascript, JQuery, VueJs ReactJS, HTML5, CSS3, Tailwind CSS, Bootstrap. With space for more!
 
 <br>
 
-📫 Contact me: **pedro.santos@reativa.pt**
+📫 Contact me: **pedrohmsantos1999@outlook.com**
 
 <br>
 
