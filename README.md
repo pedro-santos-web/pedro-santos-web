@@ -7,7 +7,11 @@
 
 <br>
 
-🔨 Tool belt: PHP, Laravel, Javascript, JQuery, VueJs ReactJS, HTML5, CSS3, Tailwind CSS, Bootstrap. With space for more!
+Homelab and security enthusiast!
+<br>
+Tool belt: PHP, Laravel, Javascript, JQuery, VueJs, ReactJS, HTML5, CSS3, Tailwind CSS, Bootstrap, MySQL/MariaDB/Sqlite, Git and CI/CD pipelines.
+<br>
+With space for more!
 
 <br>
 
