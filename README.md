@@ -7,7 +7,7 @@
 
 <br>
 
-Homelab and security enthusiast!
+Full-stack developer with a passion for homelab infrastructure and cybersecurity.
 <br>
 Tool belt: PHP, Laravel, Javascript, JQuery, VueJs, ReactJS, HTML5, CSS3, Tailwind CSS, Bootstrap, MySQL/MariaDB/Sqlite, Git and CI/CD pipelines.
 <br>
